@@ -1,2 +1,2 @@
 # Supporto-Didattica-Multimediale
-Ambiante per Simulazione
+Configurazione Ambiante per Simulazione
